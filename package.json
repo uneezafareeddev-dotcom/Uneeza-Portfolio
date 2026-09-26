@@ -1,0 +1,12 @@
+{
+  "name": "frontend-developer-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "sirv portfolio --port 3000 --host --dev --single",
+    "start": "sirv portfolio --port 3000 --host --single"
+  },
+  "devDependencies": {
+    "sirv-cli": "^3.0.0"
+  }
+}

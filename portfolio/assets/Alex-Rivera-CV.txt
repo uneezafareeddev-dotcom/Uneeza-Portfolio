@@ -1,0 +1,35 @@
+ALEX RIVERA
+Frontend Developer & UI Engineer
+San Francisco, CA  |  hello@alexrivera.dev  |  +1 (555) 123-4567
+
+--------------------------------------------------------
+SUMMARY
+--------------------------------------------------------
+Frontend developer with 5+ years of experience building premium,
+responsive and high-converting web experiences. Passionate about clean
+code, modern UI, performance and pixel-perfect execution.
+
+--------------------------------------------------------
+SKILLS
+--------------------------------------------------------
+HTML5, CSS3, JavaScript, Bootstrap, Responsive Design, jQuery, Git,
+PHP (Basic), MySQL (Basic)
+
+--------------------------------------------------------
+EXPERIENCE
+--------------------------------------------------------
+Senior Frontend Developer — Freelance (2021 - Present)
+- Delivered 120+ websites for clients across multiple industries.
+- Increased average client conversion rates through optimized UI.
+
+Frontend Developer — Digital Agency (2019 - 2021)
+- Built responsive marketing sites and landing pages.
+- Collaborated with designers to ship pixel-perfect interfaces.
+
+--------------------------------------------------------
+SERVICES
+--------------------------------------------------------
+Responsive Website Design, Landing Pages, Business Websites,
+Portfolio Websites, UI Development, Website Redesign
+
+(This is a sample CV generated for the portfolio demo.)
